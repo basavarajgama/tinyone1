@@ -1,0 +1,128 @@
+/*####header section css####*/
+header{
+	          background-color:#fbdb00;
+			  padding: 55px 0 100px;
+			 
+}
+.logo {
+	display:inline-block;
+	
+}
+.ipadimage{
+	               margin-left:300px;
+}
+.navbar ul{
+	display:inline-block;
+}
+.navbar ul li {
+	      display: inline-block;
+		  margin-left: 18px;
+}
+.navbar li a{
+	text-decoration:none;
+    padding:18px;
+	text-transform:capitalize;
+	font-size:22px;
+  color:#010101;
+  font-weight:bold;
+}
+
+
+.brandlinks  li {
+	                 display:inline-block;
+					 margin-left:40px;
+					 
+}
+.brandlinks li a i{
+	                    font-size:40px;         
+}
+.brandlinks li a{
+	                              color:#010101;
+}
+	/*####features section css####*/			  
+.inspiration{
+                       padding-top: 115px;
+					   padding-bottom: 75px;
+		}					   
+	.icons i{
+		font-size:40px;
+		color:#010101;
+	}
+	.thumbheading{
+		                    font-size:22px;
+							color:#010101;
+							margin-bottom:15px;
+							text-transform:capitalize;
+	}
+	.thumbpara{
+		                 color:#898989;
+	}
+	.thumbnail{
+		margin-bottom:85px;
+	}
+
+/*####features section css end####*/
+	 
+	.footer{
+	      background-color:black;
+	       padding: 95px 0 135px;
+} 
+	 .footer .pri-heading{
+		           color:#fcdb00;
+				   font-weight:bold;
+			font-size:32px;
+			margin-bottom:16px;
+	 }
+	 .footer .sec-heading{
+		                      font-size:20px;
+							  color:#898989;
+							  margin-bottom:45px;
+							  
+	 }
+	 .email, .submitbtn{
+		                                height:50px;
+										     border: 0px;
+											 outline:none;
+											 border-radius:5px;
+											 margin-bottom:75px;
+											 
+	 }
+	 .email{
+		 width: calc(100% - 160px);
+		 padding: 0 25px;
+	 }
+	 .submitbtn{
+		 cusor:pointer;
+		 width:125px;
+		 margin-left:20px;
+		 background-color:#fbdb00;
+		 color:#010101;
+		 font-size:16px;
+		 font-weight:bold;
+		 text-transform:uppercase;
+		 border: 2px solid #fcdb00;
+		 transition: color .4s ease-in-out;
+		 transition: background-color  .4s ease-in-out;
+	 }
+	 .submitbtn:hover,
+	 .submitbtn:focus,
+	 .submitbtn:active{
+		 color:#fbdb00;
+		 background-color:#010101;
+	 }
+	 .footer  .brandlinks  li  a {
+		 color: #fcbd00;
+	 }
+	
+
+ .footerlinks a:link,
+ .footerlinks a:visited,
+.footerlinks li {
+                          color:#ffffff;
+						    font-style:normal;
+
+}
+
+.footerlinks li {
+	                       text-transform:capitalize;
+ }
